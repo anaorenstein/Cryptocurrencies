@@ -20,9 +20,13 @@ These were our steps:
 
   <img src="Images/preprocess.png" style="zoom:67%;" />
 
+  
+
   - Using *get_dummies()* function to create variables for text features:
 
     ![](Images/get_dummies.png)
+
+    
 
   - Standardizing data with *StandardScaler()*:
 
@@ -52,7 +56,7 @@ Subsequently, we initialized the **K-Means model** that predicted the clusters:
 
 
 
-Finally, we created a new DataFrame that contains the predicted clusters, along with the cryptocurrency features:
+Finally, we created a new DataFrame that contains the predicted clusters, along with the cryptocurrency features, seen here partially:
 
 ![](/Users/anabisker/Desktop/Data_Analytics_Bootcamp/18-Unsupervised-Learning/Cryptocurrencies/Images/new_df.png)
 
