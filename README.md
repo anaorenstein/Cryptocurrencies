@@ -24,7 +24,8 @@ These were our steps:
 
   - Using *get_dummies()* function to create variables for text features:
 
-    ![](Images/get_dummies.png)
+    <img src="Images/get_dummies.png"  width="70%" height="70%">
+
 
     
 
