@@ -18,7 +18,7 @@ These were our steps:
 
 - Preprocessing the data for PCA
 
-  ![](Images/preprocess.png)
+  <img src="Images/preprocess.png" style="zoom:67%;" />
 
   - Using *get_dummies()* function to create variables for text features:
 
