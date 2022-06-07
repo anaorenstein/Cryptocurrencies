@@ -18,7 +18,7 @@ These were our steps:
 
 - Preprocessing the data for PCA
 
-  <img src="Images/preprocess.png" style="zoom:67%;" />
+  <img src="Images/preprocess.png"  width="60%" height="60%">
 
   
 
