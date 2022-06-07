@@ -24,14 +24,14 @@ These were our steps:
 
   - Using *get_dummies()* function to create variables for text features:
 
-    <img src="Images/get_dummies.png"  width="70%" height="70%">
+    <img src="Images/get_dummies.png"  width="80%" height="80%">
 
 
     
 
   - Standardizing data with *StandardScaler()*:
 
-    ![](Images/standard_scaler.png)
+     <img src="Images/standard_scaler.png"  width="80%" height="80%">
 
     
 
@@ -39,7 +39,7 @@ These were our steps:
 
   - Creating a DataFrame with three principal components:
 
-    ![](Images/data_dimensions.png)
+    <img src="Images/data_dimensions.png"  width="80%" height="80%">
 
     
 
