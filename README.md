@@ -4,9 +4,9 @@
 
 ## Overview
 
-We were approached by Accountability Accounting, a prominent investment firm studying the prospects of new cryptocurrency investments. The dramatic rise and fall of BitCoin has made the endeavor seem initially  contrived. 
+We were approached by Accountability Accounting, an investment firm, studying the prospects of new cryptocurrency investments. The dramatic rise and fall of BitCoin has made the endeavor seem initially  contrived. 
 
-To evaluate the various types of currencies that exist, they requested us to perform an in-depth analysis of the cryptocurrencies that are on the trading market, creating a dataset that will classify and show profitability of each of these cryptocurrencies and display the data as tables and graphs showing tendencies.
+To evaluate the various types of currencies that exist, they requested us to perform an in-depth analysis of the cryptocurrencies that are on the trading market, creating a dataset that will classify and show profitability of each of these cryptocurrencies, and to display the data as tables and graphs that can reveal tendencies.
 
 
 
